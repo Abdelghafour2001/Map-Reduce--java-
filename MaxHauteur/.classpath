@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/java-8-openjdk-amd64"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/home/hadoopuser/lib/hadoop/hadoop/protobuf-java-2.5.0.jar"/>
+	<classpathentry kind="lib" path="/home/hadoopuser/lib/hadoop/hadoop/hadoop-client-3.2.2.jar"/>
+	<classpathentry kind="lib" path="/home/hadoopuser/lib/hadoop/hadoop/hadoop-common-3.2.2.jar"/>
+	<classpathentry kind="lib" path="/home/hadoopuser/lib/hadoop/hadoop/hadoop-mapreduce-client-common-3.2.2.jar"/>
+	<classpathentry kind="lib" path="/home/hadoopuser/lib/hadoop/hadoop/hadoop-hdfs-client-3.2.2.jar"/>
+	<classpathentry kind="lib" path="/home/hadoopuser/lib/hadoop/hadoop/hadoop-mapreduce-client-core-3.2.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
